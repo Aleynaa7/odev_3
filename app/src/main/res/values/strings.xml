@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Candle</string>
+    <string name="candleBaslik">Candle</string>
+    <string name="candleİsim">Jasmine</string>
+    <string name="urunBaslik">Mild and Balanced Scent</string>
+    <string name="urunAciklama">A uniquie floral fragrance with a citrusy note. Its soothing effect is a perfect way to end your day.</string>
+    <string name="fiyatYazi">24.50 $</string>
+    <string name="bottombarMetin">ADD TO CART</string>
+
+</resources>

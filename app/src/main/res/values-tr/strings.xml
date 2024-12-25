@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mum</string>
+    <string name="candleBaslik">Mum</string>
+    <string name="candleİsim">Jasmine</string>
+    <string name="urunBaslik">Hafif ve Dengeli Koku</string>
+    <string name="urunAciklama">Narenciye notalarına sahip benzersiz çiçeksi bir koku. Sakinleştirici etkisi, gününüzü sonlandırmanın mükemmel bir yoludur.</string>
+    <string name="fiyatYazi">856,86 ₺</string>
+    <string name="bottombarMetin">SEPETE EKLE</string>
+</resources>
